@@ -10,7 +10,6 @@ Frontend-oriented software developer who came from a music composition and techn
 *   🖥️  See my portfolio at [brandonbuhrdev.com](http://brandonbuhrdev.com/)
 *   ✉️  You can contact me at [brandonbuhr35@gmail.com](mailto:brandonbuhr35@gmail.com)
 *   🧠  I'm learning React and NextJS
-*   🤝  I'm open to collaborating on volunteering, open-source
 ### Skills
 
 <p align="left">
