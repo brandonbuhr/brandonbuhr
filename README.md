@@ -4,7 +4,7 @@ Hi 👋 My name is Brandon Buhr
 Software Developer
 ------------------
 
-Frontend-oriented software developer who came from a music composition and technology background
+Frontend-oriented software developer
 
 *   🌍  I'm based in Green Bay, Wisconsin, United States
 *   🖥️  See my portfolio at [brandonbuhrdev.com](http://brandonbuhrdev.com/)
